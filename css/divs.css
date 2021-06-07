@@ -1,0 +1,16 @@
+/* Header */
+
+.div-navbar-menu{
+    list-style: none;
+    display: flex;
+    gap: 1.9rem;
+    font-size: 14px;
+    margin-right: 12rem;
+}
+
+/* Main */
+
+.div-section-imgtxt{
+    color: white;
+    position: relative;
+}

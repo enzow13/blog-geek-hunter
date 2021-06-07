@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(236, 236, 236);
+}
+
+/* Header */
+
+.navbar-menu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+    background: white;
+    letter-spacing: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+/* Main */
+
+.main-site{
+    background: rgb(255, 255, 255);
+    height: 64rem;
+    width: 800px;
+    margin-left: 6rem;
+    margin-top: 3rem;
+}
+.main-section-site{
+    display: flex;
+    flex-direction: column;
+}
