@@ -14,3 +14,29 @@
     color: white;
     position: relative;
 }
+
+/* Main Content Entry */
+
+.div-entry-content{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    margin-right: 5rem;
+    color: rgb(46, 46, 46);
+    letter-spacing: .5px;
+}
+
+/* Main Content Principal */
+
+.div-main-content{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-right: 5rem;
+    letter-spacing: .5px;
+}

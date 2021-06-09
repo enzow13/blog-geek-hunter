@@ -13,9 +13,23 @@
 
 /* Main */
 
+.a-section-above-subtitle{
+    text-decoration: none;
+    position: absolute;
+    font-size: .8rem;
+    color: white;
+    background: rgb(46, 46, 46, .6);
+    padding: 8px;
+    border-radius: 5px;
+    top: 2.5rem;
+    left: 2.6rem;
+}
+.a-section-above-subtitle:hover{
+    background: rgba(255, 27, 27, 0.7);
+}
 .img-section-imgtxt{
     width: 100%;
-    filter: blur(1px) brightness(60%);
+    filter: brightness(70%);
 }
 .p-div-section-img-subtitle{
     font-family: sans-serif;
@@ -33,3 +47,17 @@
     top: 24.5rem;
     left: 3rem;
 }
+
+/* Main Content Entry */
+
+/* Main Content Principal */
+
+.h2-main-content{
+    font-size: 2rem;
+}
+#p-div-main-content{
+    color: rgb(46, 46, 46);
+    font-size: 1.1rem;
+}
+
+/* rgba(240,240,255,1) */
